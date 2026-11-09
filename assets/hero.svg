@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 760">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ffffff"/><stop offset="1" stop-color="#f4f4f4"/></linearGradient>
+<linearGradient id="red" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#d91f26"/><stop offset="1" stop-color="#9e0f14"/></linearGradient>
+</defs>
+<rect width="1100" height="760" rx="42" fill="url(#bg)"/>
+<circle cx="875" cy="120" r="150" fill="#f6d6d8"/>
+<rect x="95" y="85" width="910" height="570" rx="30" fill="#fafafa" stroke="#e3e3e3" stroke-width="3"/>
+<rect x="140" y="130" width="380" height="470" rx="22" fill="#f0f0f0"/>
+<path d="M160 205C250 130 330 300 500 180M170 360C300 270 360 430 500 345M180 510C280 430 370 585 500 500" fill="none" stroke="#c4151c" stroke-width="7" opacity=".68"/>
+<path d="M185 150C235 240 310 210 360 310S440 440 480 580" fill="none" stroke="#b8b8b8" stroke-width="5"/>
+<rect x="565" y="135" width="380" height="220" rx="22" fill="url(#red)"/>
+<text x="755" y="215" text-anchor="middle" font-family="Georgia" font-size="44" font-weight="700" fill="#fff">Natural stone.</text>
+<text x="755" y="268" text-anchor="middle" font-family="Georgia" font-size="44" font-weight="700" fill="#fff">Refined spaces.</text>
+<text x="755" y="312" text-anchor="middle" font-family="Arial" font-size="17" fill="#ffe8e8">Marble • Granite • Quartz • Custom fabrication</text>
+<rect x="565" y="395" width="180" height="205" rx="20" fill="#fff" stroke="#ddd" stroke-width="3"/>
+<rect x="765" y="395" width="180" height="205" rx="20" fill="#fff" stroke="#ddd" stroke-width="3"/>
+<path d="M590 520l45-90 38 65 27-43 22 68z" fill="#e7e7e7"/><path d="M595 535h125" stroke="#c4151c" stroke-width="5"/>
+<circle cx="855" cy="477" r="55" fill="#f4d2d4"/><path d="M805 550h100" stroke="#c4151c" stroke-width="5"/>
+</svg>
